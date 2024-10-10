@@ -1,0 +1,7 @@
+- 👋 Hi, I’m @Tomcatpro52
+- 👀 I’m interested in: python
+- 🌱 I’m currently learning: python
+- 💞 I’m looking to collaborate on: python
+- 📫 How to reach me: python
+- 😄 Pronouns: he/him
+- ⚡ Fun fact: (NoneType is not iterable)
