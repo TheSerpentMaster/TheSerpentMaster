@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @Tomcatpro52
-- 👀 I’m interested in: python
-- 🌱 I’m currently learning: python
-- 💞 I’m looking to collaborate on: python
-- 📫 How to reach me: python
-- 😄 Pronouns: he/him
-- ⚡ Fun fact: (NoneType is not iterable)
+- Hi, I’m Sam.
+- I’m interested in doding, playing Minecraft, and getting good grades.
+- I’m currently learning Python, HTML, JavaScript, C++, Java, and many more.
+- I’m looking to collaborate on large-scale projects that aim to enhance existing functionalities of various categories.
+- Contact me at my Discord: cosmic.shrimp by sending a friend request. May take some time for me to see, lot of dms coming in.
+- Please refer to me as he/him.
+- Fun fact: (NoneType is not iterable)
