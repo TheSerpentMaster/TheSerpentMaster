@@ -1,7 +1,9 @@
 - Hi, I’m Sam.
-- I’m interested in doding, playing Minecraft, and getting good grades.
+- I’m interested in coding, playing Minecraft, and getting good grades.
 - I’m currently learning Python, HTML, JavaScript, C++, Java, and many more.
 - I’m looking to collaborate on large-scale projects that aim to enhance existing functionalities of various categories.
 - Contact me at my Discord: cosmic.shrimp by sending a friend request. May take some time for me to see, lot of dms coming in.
 - Please refer to me as he/him.
+- Current Active Projects: Kaelum, Neo-MailMaster, and legacy USACO problems.
+- Note: Any project that is older than 6 months is my old work and does not represent my coding ability.
 - Fun fact: (NoneType is not iterable)
